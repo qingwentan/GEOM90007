@@ -1,2 +1,2 @@
 # GEOM90007
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](Screenshot.png)
